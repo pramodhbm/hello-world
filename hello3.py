@@ -4,3 +4,4 @@ def hello(name):
 
 name = input("Enter a name: ")
 hello(name)
+hello(name)
