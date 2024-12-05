@@ -1,6 +1,5 @@
-def hello(name):
-  print(f"Hello World {name}")
+def say_hello():
+    print("Hello, World!")
 
-
-name = input("Enter a name: ")
-hello(name)
+if __name__ == "__main__":
+    say_hello()
